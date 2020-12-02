@@ -1,4 +1,4 @@
-#### A guided exploration of UN data (Gross Domestic Product and Internet Usage)
+## A guided exploration of UN data (Gross Domestic Product and Internet Usage)
 
 ##### In-class practice 1  
 
@@ -6,11 +6,11 @@
 
 2. Download these two CSV files and place them in the data folder:
 
-    a.	Gross Domestic Product (GDP) per capita http://data.un.org/Data.aspx?d=WDI&f=Indicator_Code%3aNY.GDP.PCAP.PP.KD **DO NOT APPLY ANY FILTERS**
+    a.	Gross Domestic Product (GDP) per capita data [here](http://data.un.org/Data.aspx?d=WDI&f=Indicator_Code%3aNY.GDP.PCAP.PP.KD) **DO NOT APPLY ANY FILTERS**
      - rename the file to `gdp_percapita.csv`
      - open it with a text editor (**not excel**) and take a look
 
-    b.	Percentage of Individuals using the Internet http://data.un.org/Data.aspx?d=ITU&f=ind1Code%3aI99H  **DO NOT APPLY ANY FILTERS**
+    b.	Percentage of Individuals using the Internet data [here](http://data.un.org/Data.aspx?d=ITU&f=ind1Code%3aI99H)  **DO NOT APPLY ANY FILTERS**
      - rename the file to `internet_use.csv`
      - open it with a text editor (**not excel**) and take a look
 
